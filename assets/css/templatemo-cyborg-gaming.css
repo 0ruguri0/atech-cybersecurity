@@ -142,7 +142,7 @@ p {
 }
 
 ::selection {
-  background: #e75e8d;
+  background: #f30000;
   color: #fff;
 }
 
@@ -159,7 +159,7 @@ p {
 .main-button a {
   font-size: 14px;
   color: #fff;
-  background-color: #e75e8d;
+  background-color: #ff0000;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
